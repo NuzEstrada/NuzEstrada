@@ -1,8 +1,13 @@
 ### Hola Mundo 👋
-Mi nombre es Alex, estudio para ser un Ingeniero de Sistemas. 
-![Banner 125](https://github.com/NuzEstrada/NuzEstrada/assets/159297691/74033efd-528a-4b1f-a3da-b8fed19705be)
+
+![Banner 125](https://github.com/NuzEstrada/NuzEstrada/assets/159297691/9a3209e1-412a-4f50-9b2f-1b466d901379)
 
 
+- 📚 Mi nombre es Alex, estudiante de Ing. de sistemas .
+- 💻 EStoy aprendiendo a programar. Todavía no tengo un lenguaje de programación favorito...
+- 🪐 He participado en olimpiadas de Física , solo llegué hasta la segunda etapa.
+- 🎮 Aficionado por los juegos de supervivencia, espero programar uno.
+- 🥋 Cursé Tae Kwon Do.
 <!--
 **NuzEstrada/NuzEstrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
