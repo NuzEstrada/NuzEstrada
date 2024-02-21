@@ -1,4 +1,4 @@
-<h1 align="center">Hola Mundo 👋<
+<h1 align="center">Hola Mundo 👋 </h1>
 
 ![Banner 125](https://github.com/NuzEstrada/NuzEstrada/assets/159297691/9a3209e1-412a-4f50-9b2f-1b466d901379)
 
