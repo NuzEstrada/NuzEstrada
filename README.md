@@ -4,7 +4,7 @@
 
 
 - 📚 Mi nombre es Alex, estudiante de Ing. de sistemas .
-- 💻 EStoy aprendiendo a programar. Todavía no tengo un lenguaje de programación favorito...
+- 💻 Estoy aprendiendo a programar. Todavía no tengo un lenguaje de programación favorito...
 - 🪐 He participado en olimpiadas de Física , solo llegué hasta la segunda etapa.
 - 🎮 Aficionado por los juegos de supervivencia, espero programar uno.
 - 🥋 Cursé Tae Kwon Do.
